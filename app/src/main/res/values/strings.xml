@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MotionLayout</string>
+    <string name="credits">made_by_rohit</string>
+    <string name="moon">moon_image</string>
 </resources>
